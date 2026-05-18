@@ -1,5 +1,6 @@
-# 💫 About Me:
-👾 Hello folks! I'm Renata Lessa, an ADS student passionate about technology, always curious about how things work and how to turn ideas into real digital solutions. <br><br>I enjoy exploring software development, building projects, and constantly learning new tools and technologies that help me grow in the tech world. 🚀<br><br>Turning curiosity into code, and learning into projects. ✨
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=14FF00&width=600&lines=Hello+Forks!+%F0%9F%91%BE;Renata+Lessa+%7C+Full+Stack+Developer+%7C+ADS+Student)](https://git.io/typing-svg)
+
+I'm Renata Lessa, an ADS student passionate about technology, always curious about how things work and how to turn ideas into real digital solutions. <br><br>I enjoy exploring software development, building projects, and constantly learning new tools and technologies that help me grow in the tech world. 🚀<br><br>Turning curiosity into code, and learning into projects. ✨
 
 
 <div style="display: inline_block"><br>
