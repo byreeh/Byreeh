@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 Renata | ADS Student & Tech Explorer<br><br>👾 Hello folks! I'm Renata Lessa, an ADS student passionate about technology, always curious about how things work and how to turn ideas into real digital solutions. ☕💻<br><br>I enjoy exploring software development, building projects, and constantly learning new tools and technologies that help me grow in the tech world. 🚀<br><br>Turning curiosity into code, and learning into projects. ✨
+👩‍💻 Renata | ADS Student & Tech Explorer<br><br>👾 Hello folks! I'm Renata Lessa, an ADS student passionate about technology, always curious about how things work and how to turn ideas into real digital solutions. <br><br>I enjoy exploring software development, building projects, and constantly learning new tools and technologies that help me grow in the tech world. 🚀<br><br>Turning curiosity into code, and learning into projects. ✨
 
 
 # 💻 Tech Stack:
